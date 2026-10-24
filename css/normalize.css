@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", Arial, sans-serif;
+  background-color: #1a1a1a;
+  color: #e0e0e0;
+  line-height: 1.6;
+}
+
+/* Custom fonts for headings */
+h1,
+h2,
+h3,
+h4,
+.site-title,
+.hero-overlay h2 {
+  font-family: "Oswald", Impact, sans-serif;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
